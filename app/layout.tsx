@@ -1,0 +1,1 @@
+import "./globals.css"; export const metadata={title:"AI-CODE — Vibe Coding & AI",description:"AI-агенты, LLM, боты и no-code решения"}; export default function RootLayout({children}:{children:React.ReactNode}){return <html lang="ru"><body>{children}</body></html>}
